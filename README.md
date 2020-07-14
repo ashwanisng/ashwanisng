@@ -1,4 +1,4 @@
-# Ashwani Kumar Singh :smiley:
+ # <a href="https://www.linkedin.com/in/ashwanisng/">Ashwani Kumar Singh</a> :smiley:
 Contributer at Student Code-in | Contributer at PClub Summer Of Code | Data Science | Machine Learning | Deep Learning | Android Development | Java | Python | Competitive Programming
 
 ## About :sunglasses:
