@@ -42,7 +42,7 @@ B.tech 3rd year Computer Science student. Currently working as a Contributor in 
 - Machine Learning
 - Deep Learning
 
-**Languages and Framework:**  
+## Languages and Framework:
 
 <img align="left" alt="Android Studio" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" />
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -63,16 +63,25 @@ B.tech 3rd year Computer Science student. Currently working as a Contributor in 
 
 ---
 
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwanisng&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
+
 <img src="https://github-readme-stats.vercel.app/api?username=ashwanisng&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
+
+
+
 
 
 <a href="https://github.com/ashwanisng/Covid-19-Data-Analysis">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashwanisng&repo=Covid-19-Data-Analysis&theme=radical" />
 </a>    
+
+
 
 
 ##  Contact Me :speech_balloon:
