@@ -63,8 +63,8 @@ B.tech 3rd year Computer Science student. Currently working as a Contributor in 
 
 ---
 
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ashwanisng&layout=compact&theme=dark"/><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwanisng&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
