@@ -70,7 +70,7 @@ B.tech 3rd year Computer Science student. Currently working as a Contributor in 
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashwanisng&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ashwanisng&&count_private=true&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
 
 
 
