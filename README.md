@@ -83,9 +83,11 @@ B.tech 3rd year Computer Science student. Currently working as a Contributor in 
 <a href="https://github.com/ashwanisng/Covid-19-Data-Analysis">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashwanisng&repo=Covid-19-Data-Analysis&theme=radical" />
-</a><br>   
+</a>
+<br>   
 
 
+<br/>
 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ashwanisng)
