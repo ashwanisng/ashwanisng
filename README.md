@@ -42,6 +42,10 @@ B.tech 3rd year Computer Science student. Currently working as a Contributor in 
 - Machine Learning
 - Deep Learning
 
+
+![GitHub metrics](https://metrics.lecoq.io/ashwanisng)  <br>
+
+
 ## Languages and Framework:
 
 <img align="left" alt="Android Studio" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" />
@@ -79,7 +83,13 @@ B.tech 3rd year Computer Science student. Currently working as a Contributor in 
 <a href="https://github.com/ashwanisng/Covid-19-Data-Analysis">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashwanisng&repo=Covid-19-Data-Analysis&theme=radical" />
-</a>    
+</a><br>   
+
+
+
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ashwanisng)
+
 
 
 
