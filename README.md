@@ -25,7 +25,9 @@
 Contributer at Student Code-in | Contributer at PClub Summer Of Code | Data Science | Machine Learning | Deep Learning | Android Development | Java | Python | Competitive Programming
 
 ## About :sunglasses:
-B.tech 3rd year Computer Science student. Currently working as a Contributor in Open Source organization Student Code-in and PClub Summer Of Code. Passionate about Data Science, Machine Learning and open source. Also, have some experience in Android Development and Data Analysis.
+B.tech 3rd year Computer Science student. Currently participant in GirlScript Summer Of Code.
+Previously participated in some Open Source organizations like Student Code-in and PClub Summer Of Code. Passionate about making the native app with Flutter, and open source. Also, have some experience in Data Analysis, machine learning. 
+
 
 ## Communities :dancers:
 - Contributer at [Student Code-in](https://scodein.tech/) ( An Open Source organization.)
@@ -33,11 +35,12 @@ B.tech 3rd year Computer Science student. Currently working as a Contributor in 
 - Campus Ambassador at [HackerEarth](https://www.hackerearth.com/challenges/)
 
 ## Technologies :fire:
+- Mobile application development **Flutter Developer**.
+- Dart.
 - Data Analysis with **Python**.
 - Data Science.
-- Mobile application development using **Android (Java)**.
-- Python.
 - Java
+- Python.
 - Competitive Programming.
 - Machine Learning
 - Deep Learning
