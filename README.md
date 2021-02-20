@@ -30,6 +30,7 @@ Previously participated in some Open Source organizations like Student Code-in a
 
 
 ## Communities :dancers:
+- Partcipant at [GirlScript Summer of Code](https://gssoc.girlscript.tech/) (GirlScript Summer of Code is the 3 month long Open Source program.)
 - Contributer at [Student Code-in](https://scodein.tech/) ( An Open Source organization.)
 - Contributer at [PClub Summer Of Code](http://pclubsummerofcode.in/) ( ( An Open Source organization.)
 - Campus Ambassador at [HackerEarth](https://www.hackerearth.com/challenges/)
