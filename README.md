@@ -83,13 +83,21 @@ Previously participated in some Open Source organizations like Student Code-in a
 
 
 
-
-<a href="https://github.com/ashwanisng/Covid-19-Data-Analysis">
+<br>
+ <a href="https://github.com/ashwanisng/Covid-19-Data-Analysis">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashwanisng&repo=Covid-19-Data-Analysis&theme=radical" />
-</a>
-<br>   
+ </a>
+<br/>   
 
+
+
+<br>
+ <a href="https://github.com/ashwanisng/Vaccine-Finder">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashwanisng&repo=Vaccine-Finder&theme=radical" />
+ </a>
+<br/>   
 
 <br/>
 
