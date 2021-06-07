@@ -1,5 +1,5 @@
  # <a href="https://www.linkedin.com/in/ashwanisng/">Ashwani Kumar Singh</a> :smiley:
- 
+<!--  
  <a href="https://twitter.com/ashwanisng">
   <img align="left" alt="Ashwani's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -22,12 +22,33 @@
 <br/>
 <br/>
 
-Contributer at Student Code-in | Contributer at PClub Summer Of Code | Data Science | Machine Learning | Deep Learning | Android Development | Java | Python | Competitive Programming
+Contributer at Student Code-in | Contributer at PClub Summer Of Code | Data Science | Machine Learning | Deep Learning | Android Development | Java | Python | Competitive Programming -->
 
-## About :sunglasses:
+
+# Hello, I am Ashwani <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
+
+![](https://activity-graph.herokuapp.com/graph?username=ashwanisng&theme=react-dark&hide_border=true&area=true)
+
+## About
+
+I am Ashwani Kumar Singh. I am a third-year undergraduate student at Galgotias University. Selected as a participant in [GirlScript Summer Of Code](https://gssoc.girlscript.tech/).
+Previously participated in some Open Source organizations like [Student Code-in](https://scodein.tech/) and [PClub Summer Of Code](http://pclubsummerofcode.in/). Passionate about making the native app with Flutter, and open source. Also, have some experience in Data Analysis, machine learning. 
+
+<table>
+  <tr>
+      <td><a href="https://github.com/ashwanisng"><img src="https://img.shields.io/github/followers/ashwanisng.svg?label=GitHub&style=social" alt="GitHub"></a></td>
+    <td><a href="https://twitter.com/ashwanisng"><img src="https://img.shields.io/twitter/follow/ashwanisng?label=Twitter&style=social" alt="Twitter"></a></td>
+    <td><a href="https://www.linkedin.com/in/ashwanisng"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
+    <td><a href="https://www.instagram.com/in/ashwanisng"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a></td>
+    <td><a href="mailto:ashwanicena5@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a></td>
+  </tr>
+</table>
+
+
+<!-- ## About :sunglasses:
 B.tech 3rd year Computer Science student. Currently participant in GirlScript Summer Of Code.
-Previously participated in some Open Source organizations like Student Code-in and PClub Summer Of Code. Passionate about making the native app with Flutter, and open source. Also, have some experience in Data Analysis, machine learning. 
-
+Previously participated in some Open Source organizations like [Student Code-in](https://scodein.tech/) and [PClub Summer Of Code](http://pclubsummerofcode.in/). Passionate about making the native app with Flutter, and open source. Also, have some experience in Data Analysis, Machine Learning. 
+ -->
 
 ## Communities :dancers:
 - Partcipant at [GirlScript Summer of Code](https://gssoc.girlscript.tech/) (GirlScript Summer of Code is the 3 month long Open Source program.)
@@ -64,29 +85,24 @@ Previously participated in some Open Source organizations like Student Code-in a
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Flutter" width="30px" src="https://img.icons8.com/color/48/000000/flutter.png"/>
 <img align="left" alt="Dart" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Dart_programming_language_logo.svg"/>
+<br>
 
 
-
-</br>
-
----
-
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ashwanisng&layout=compact&theme=dark"/><br>
+-----------------------------------------------------------------------
 
 
 
 
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ashwanisng&layout=compact&theme=light"/>
+<br/>
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=ashwanisng&&count_private=true&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
-
-
+<img src="https://github-readme-stats.vercel.app/api?username=ashwanisng&&count_private=true&show_icons=true&theme=light&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
 
 
 <br>
  <a href="https://github.com/ashwanisng/Covid-19-Data-Analysis">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashwanisng&repo=Covid-19-Data-Analysis&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashwanisng&repo=Covid-19-Data-Analysis&theme=light" />
  </a>
 <br/>   
 
@@ -95,7 +111,7 @@ Previously participated in some Open Source organizations like Student Code-in a
 <br>
  <a href="https://github.com/ashwanisng/Vaccine-Finder">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashwanisng&repo=Vaccine-Finder&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashwanisng&repo=Vaccine-Finder&theme=light" />
  </a>
 <br/>   
 
@@ -109,7 +125,18 @@ Previously participated in some Open Source organizations like Student Code-in a
 
 
 ##  Contact Me :speech_balloon:
-[![Twitter Badge](https://img.shields.io/badge/-@ashwanisng-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ashwanisng)](https://twitter.com/ashwanisng) [![Linkedin Badge](https://img.shields.io/badge/-ashwanisng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashwanisng/)](https://www.linkedin.com/in/ashwanisng/) [![Gmail Badge](https://img.shields.io/badge/-ashwanicena5@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashwanicena5@gmail.com)](mailto:ashwanicena5@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@ashwanisng-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/ashwanisng/)](https://www.instagram.com/ashwanisng/)
+<!-- [![Twitter Badge](https://img.shields.io/badge/-@ashwanisng-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ashwanisng)](https://twitter.com/ashwanisng) [![Linkedin Badge](https://img.shields.io/badge/-ashwanisng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashwanisng/)](https://www.linkedin.com/in/ashwanisng/) [![Gmail Badge](https://img.shields.io/badge/-ashwanicena5@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashwanicena5@gmail.com)](mailto:ashwanicena5@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@ashwanisng-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/ashwanisng/)](https://www.instagram.com/ashwanisng/) -->
+
+<table>
+  <tr>
+      <td><a href="https://github.com/ashwanisng"><img src="https://img.shields.io/github/followers/ashwanisng.svg?label=GitHub&style=social" alt="GitHub"></a></td>
+      <td><a href="https://twitter.com/ashwanisng"><img src="https://img.shields.io/twitter/follow/ashwanisng?label=Twitter&style=social" alt="Twitter"></a></td>
+      <td><a href="https://www.linkedin.com/in/ashwanisng"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
+      <td><a href="https://www.instagram.com/in/ashwanisng"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a></td>
+      <td><a href="mailto:ashwanicena5@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a></td>
+  </tr>
+</table>
+
 
 <p align="center"> 
   Visitor count<br>
