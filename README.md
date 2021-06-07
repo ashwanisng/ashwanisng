@@ -1,31 +1,4 @@
- # <a href="https://www.linkedin.com/in/ashwanisng/">Ashwani Kumar Singh</a> :smiley:
-<!--  
- <a href="https://twitter.com/ashwanisng">
-  <img align="left" alt="Ashwani's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://linkedin.com/in/ashwanisng">
-  <img align="left" alt="Ashwani's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/ashwanisng">
-  <img align="left" alt="Ashwani's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://instagram.com/ashwanisng">
-  <img align="left" alt="Ashwani's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/ashwani1406">
-  <img align="left" alt="Ashwani's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://medium.com/@ashwanisng">
-  <img align="left" alt="Ashwani's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-
-<br/>
-<br/>
-
-Contributer at Student Code-in | Contributer at PClub Summer Of Code | Data Science | Machine Learning | Deep Learning | Android Development | Java | Python | Competitive Programming -->
-
-
-# Hello, I am Ashwani <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
+# Hello, I am <a href="https://www.linkedin.com/in/ashwanisng/">Ashwani <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 
 ![](https://activity-graph.herokuapp.com/graph?username=ashwanisng&theme=react-dark&hide_border=true&area=true)
 
@@ -45,10 +18,6 @@ Previously participated in some Open Source organizations like [Student Code-in]
 </table>
 
 
-<!-- ## About :sunglasses:
-B.tech 3rd year Computer Science student. Currently participant in GirlScript Summer Of Code.
-Previously participated in some Open Source organizations like [Student Code-in](https://scodein.tech/) and [PClub Summer Of Code](http://pclubsummerofcode.in/). Passionate about making the native app with Flutter, and open source. Also, have some experience in Data Analysis, Machine Learning. 
- -->
 
 ## Communities :dancers:
 - Partcipant at [GirlScript Summer of Code](https://gssoc.girlscript.tech/) (GirlScript Summer of Code is the 3 month long Open Source program.)
