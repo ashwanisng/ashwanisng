@@ -122,7 +122,7 @@ Previously participated in some Open Source organizations like [Student Code-in]
   <img src="https://profile-counter.glitch.me/ashwanisng/count.svg" />
 </p>
 
-  ![snake svg](https://github.com/ashwanisng/ashwanisng/blob/output/github-contribution-grid-snake.svg)
+<!--   ![snake svg](https://github.com/ashwanisng/ashwanisng/blob/output/github-contribution-grid-snake.svg) -->
 
 
 <div align="center">
