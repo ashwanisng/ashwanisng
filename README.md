@@ -88,6 +88,16 @@ Previously participated in some Open Source organizations like [Student Code-in]
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ashwanisng)
 
+  
+  <hr>
+  
+### Spotify Playing 🎧
+
+![Spotify](https://novatorem.vercel.app/api/spotify)
+
+<br/>
+ 
+ <hr>
 
 
 
@@ -105,11 +115,14 @@ Previously participated in some Open Source organizations like [Student Code-in]
   </tr>
 </table>
 
+  
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ashwanisng/count.svg" />
 </p>
+
+  ![snake svg](https://github.com/ashwanisng/ashwanisng/blob/output/github-contribution-grid-snake.svg)
 
 
 <div align="center">
