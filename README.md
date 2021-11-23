@@ -4,7 +4,7 @@
 
 ## About
 
-I am Ashwani Kumar Singh. I am a third-year undergraduate student at Galgotias University. Selected as a participant in [GirlScript Summer Of Code](https://gssoc.girlscript.tech/).
+I am Ashwani Kumar Singh. I am a fourth-year undergraduate student at Galgotias University. Also done 3 month internship at Sudan's Tech. Published an Flutter application Your Coin on [Google PlayStore](https://play.google.com/store/apps/details?id=com.ashwanisng.your_coin). Selected as a participant in [GirlScript Summer Of Code](https://gssoc.girlscript.tech/).
 Previously participated in some Open Source organizations like [Student Code-in](https://scodein.tech/) and [PClub Summer Of Code](http://pclubsummerofcode.in/). Passionate about making the native app with Flutter, and open source. Also, have some experience in Data Analysis, machine learning. 
 
 <table>
