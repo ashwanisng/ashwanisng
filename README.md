@@ -1,11 +1,12 @@
-# Hello, I am <a href="https://www.linkedin.com/in/ashwanisng/">Ashwani <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
+# Hello, I am <a href="https://www.linkedin.com/in/ashwanisng">Ashwani</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 
 ![](https://activity-graph.herokuapp.com/graph?username=ashwanisng&theme=react-dark&hide_border=true&area=true)
 
 ## About
 
-I am Ashwani Kumar Singh. I am a fourth-year undergraduate student at Galgotias University. Also done 3 month internship at Sudan's Tech. Published an Flutter application Your Coin on [Google PlayStore](https://play.google.com/store/apps/details?id=com.ashwanisng.your_coin). Selected as a participant in [GirlScript Summer Of Code](https://gssoc.girlscript.tech/).
-Previously participated in some Open Source organizations like [Student Code-in](https://scodein.tech/) and [PClub Summer Of Code](http://pclubsummerofcode.in/). Passionate about making the native app with Flutter, and open source. Also, have some experience in Data Analysis, machine learning. 
+I am Ashwani Kumar Singh. I am a mobile engineer at Squareboat. I am a 2022 batch passed out and have a total of 8 months of internship experience. I published one of my cross-platform applications, "Your Coin," built with Flutter when I was in my 3rd year of college. Your Coin is available on [Google Play](https://play.google.com/store/apps/details?id=com.ashwanisng.your_coin). I also actively participate in open source programmes like Girl Script Summer of Code, Student Code-in and PClub Summer of Code.
+
+I am passionate about making cross-platform apps with Flutter and open source. I also have some experience in data analysis and machine learning. I have also published a few articles on [Medium](https://medium.com/@ashwanisng).
 
 <table>
   <tr>
