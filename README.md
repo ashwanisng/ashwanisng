@@ -4,7 +4,7 @@
 
 ## About
 
-I am Ashwani Kumar Singh. I am a mobile engineer at Squareboat. I am a 2022 batch passed out and have a total of 8 months of internship experience. I published one of my cross-platform applications, "Your Coin," built with Flutter when I was in my 3rd year of college. Your Coin is available on [Google Play](https://play.google.com/store/apps/details?id=com.ashwanisng.your_coin). I also actively participate in open source programmes like Girl Script Summer of Code, Student Code-in and PClub Summer of Code.
+Highly skilled and motivated Flutter Developer with 1.5+ years of experience in developing mobile applications using Flutter SDK. Proficient in creating pixel-perfect UI/UX designs, integrating third-party APIs, and implementing complex features with a focus on user experience. Adept at working collaboratively in fast-paced environments and meeting tight deadlines.
 
 I am passionate about making cross-platform apps with Flutter and open source. I also have some experience in data analysis and machine learning. I have also published a few articles on [Medium](https://medium.com/@ashwanisng).
 
