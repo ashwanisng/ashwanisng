@@ -4,7 +4,7 @@
 
 ## About
 
-Highly skilled and motivated Flutter Developer with 1.5+ years of experience in developing mobile applications using Flutter SDK. Proficient in creating pixel-perfect UI/UX designs, integrating third-party APIs, and implementing complex features with a focus on user experience. Adept at working collaboratively in fast-paced environments and meeting tight deadlines.
+Highly skilled and motivated Flutter Developer with 2+ years of experience in developing mobile applications using Flutter SDK. Proficient in creating pixel-perfect UI/UX designs, integrating third-party APIs, and implementing complex features with a focus on user experience. Adept at working collaboratively in fast-paced environments and meeting tight deadlines.
 
 I am passionate about making cross-platform apps with Flutter and open source. I also have some experience in data analysis and machine learning. I have also published a few articles on [Medium](https://medium.com/@ashwanisng).
 
