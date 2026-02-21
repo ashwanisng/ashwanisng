@@ -66,7 +66,7 @@ Furthermore, I possess knowledge of software development methodologies such as A
 
 <p align="center">
   <a href="https://github.com/ashwanisng/Flutter-Starter-Bloc">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ashwanisng&repo=Flutter-Starter-Bloc&theme=light" />
+   <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ashwanisng&repo=Flutter-Starter-Bloc&theme=light&v=1" />
   </a>
   <a href="https://github.com/ashwanisng/flutter_doctor_ai">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ashwanisng&repo=flutter_doctor_ai&theme=light" />
